@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hi, my name is Pavan Kumar Vicharapu.<br>🎓 I’m pursuing B.Tech in CSE with a specialization in AI and ML at Malla Reddy University, Hyderabad.<br>💼 I aspire to become a data analyst and secure a position in an MNC.<br>🔭 I’m currently working on honing my data analysis skills and exploring AI and ML applications.<br>👯 I’m looking to collaborate on data-driven projects that generate actionable insights.<br>🤝 I’m looking for help with advanced machine learning techniques and real-world data analytics case studies.<br>🌱 I’m currently learning Python for data analysis, machine learning models, and advanced Excel techniques.</h2>
+<h2 align="left">👋 Hi, my name is Pavan Kumar Vicharapu.<br>🎓 I’m pursuing B.Tech in CSE with a specialization in AI and ML at Malla Reddy University, Hyderabad.<br>💼 <br>🔭 I’m currently working on honing my data analysis skills and exploring AI and ML applications.<br>👯 I’m looking to collaborate on data-driven projects that generate actionable insights.<br>🤝 I’m looking for help with advanced machine learning techniques and real-world data analytics case studies.<br>🌱 
 
 ---
 
